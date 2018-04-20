@@ -6,7 +6,7 @@
         
         public function index(){
             $data = [
-                'title' => 'MVCSETUP',
+                'title' => 'Share Posts',
             ];
 
             $this->view('pages/index', $data);
